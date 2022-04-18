@@ -1,9 +1,139 @@
 import React from 'react'
 import './services.css'
+import {BiCheck} from 'react-icons/bi'
 
 const Services = () => {
   return (
-    <section id='services'>Services</section>
+    <section id='services'>
+      <h5>What I Offer</h5>
+      <h2>Services</h2>
+
+      <div className="container service__container">
+        <article className='service'>
+          <div className="service__head">
+            <h3>UI/UX Design</h3>
+          </div>
+
+          <ul className='service__list'>
+            <li>
+              <BiCheck className='service__icon'/>
+              <p>Web design and development, social media and website content management.</p>
+            </li>
+
+            <li>
+              <BiCheck className='service__icon'/>
+              <p>Web design and development, social media and website content management.</p>
+            </li>
+
+            <li>
+              <BiCheck className='service__icon'/>
+              <p>Web design and development, social media and website content management.</p>
+            </li>
+
+            <li>
+              <BiCheck className='service__icon'/>
+              <p>Web design and development, social media and website content management.</p>
+            </li>
+
+            <li>
+              <BiCheck className='service__icon'/>
+              <p>Web design and development, social media and website content management.</p>
+            </li>
+
+            <li>
+              <BiCheck className='service__icon'/>
+              <p>Web design and development, social media and website content management.</p>
+            </li>
+
+            <li>
+              <BiCheck className='service__icon'/>
+              <p>Web design and development, social media and website content management.</p>
+            </li>
+          </ul>
+
+        </article>
+
+  {/* ----------------END OF UI/UX -----------------*/}
+
+        <article className='service'>
+          <div className="service__head">
+            <h3>WEB Development</h3>
+          </div>
+
+          <ul className='service__list'>
+            <li>
+              <BiCheck className='service__icon'/>
+              <p>Web design and development, social media and website content management.</p>
+            </li>
+
+            <li>
+              <BiCheck className='service__icon'/>
+              <p>Web design and development, social media and website content management.</p>
+            </li>
+
+            <li>
+              <BiCheck className='service__icon'/>
+              <p>Web design and development, social media and website content management.</p>
+            </li>
+
+            <li>
+              <BiCheck className='service__icon'/>
+              <p>Web design and development, social media and website content management.</p>
+            </li>
+
+            <li>
+              <BiCheck className='service__icon'/>
+              <p>Web design and development, social media and website content management.</p>
+            </li>
+
+            <li>
+              <BiCheck className='service__icon'/>
+              <p>Web design and development, social media and website content management.</p>
+            </li>
+          </ul>
+          
+        </article>
+
+  {/* ----------------END OF WEB Development -----------------*/}
+
+        <article className='service'>
+          <div className="service__head">
+            <h3>Content Creation</h3>
+          </div>
+
+          <ul className='service__list'>
+            <li>
+              <BiCheck className='service__icon'/>
+              <p>Web design and development, social media and website content management.</p>
+            </li>
+
+            <li>
+              <BiCheck className='service__icon'/>
+              <p>Web design and development, social media and website content management.</p>
+            </li>
+
+            <li>
+              <BiCheck className='service__icon'/>
+              <p>Web design and development, social media and website content management.</p>
+            </li>
+
+            <li>
+              <BiCheck className='service__icon'/>
+              <p>Web design and development, social media and website content management.</p>
+            </li>
+
+            <li>
+              <BiCheck className='service__icon'/>
+              <p>Web design and development, social media and website content management.</p>
+            </li>
+          </ul>
+          
+        </article>
+
+  {/* ----------------END OF Content Creation -----------------*/}
+      </div>
+
+    </section>
   )
 }
 
