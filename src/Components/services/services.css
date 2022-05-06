@@ -17,7 +17,7 @@
     cursor: default;
 }
 .service__head{
-    background: var(--color-primary);
+    background: linear-gradient(var(--color-bg-variant), var(--color-primary));
     padding: 2rem;
     border-radius: 0 0 2rem 2rem;
     box-sizing: 0 2rem 1rem rgba(0, 0, 0, 0.1);
