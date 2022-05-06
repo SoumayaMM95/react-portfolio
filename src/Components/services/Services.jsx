@@ -15,16 +15,7 @@ const Services = () => {
           </div>
 
           <ul className='service__list'>
-            <li>
-              <BiCheck className='service__icon'/>
-              <p>Web design and development, social media and website content management.</p>
-            </li>
-
-            <li>
-              <BiCheck className='service__icon'/>
-              <p>Web design and development, social media and website content management.</p>
-            </li>
-
+            
             <li>
               <BiCheck className='service__icon'/>
               <p>Web design and development, social media and website content management.</p>
