@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.ca672eb8.css",
+    "main.js": "/react-portfolio/static/js/main.4234ebde.js",
+    "static/media/RSApp.png": "/react-portfolio/static/media/RSApp.87fd995ee6fc319f6a60.png",
+    "static/media/Web-Template.png": "/react-portfolio/static/media/Web-Template.63c3c8cf0bd06aed8c8c.png",
+    "static/media/1.jpg": "/react-portfolio/static/media/1.3def4a291fe73da86c1f.jpg",
+    "static/media/souss.png": "/react-portfolio/static/media/souss.3ed9afef6614fa0a5ff2.png",
+    "static/media/bastah2png.png": "/react-portfolio/static/media/bastah2png.0bd854278b142750b3ac.png",
+    "static/media/Soumaya-Mahdi-Resume.pdf": "/react-portfolio/static/media/Soumaya-Mahdi-Resume.19e98c89841002f749c2.pdf",
+    "index.html": "/react-portfolio/index.html",
+    "main.ca672eb8.css.map": "/react-portfolio/static/css/main.ca672eb8.css.map",
+    "main.4234ebde.js.map": "/react-portfolio/static/js/main.4234ebde.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca672eb8.css",
+    "static/js/main.4234ebde.js"
+  ]
+}
